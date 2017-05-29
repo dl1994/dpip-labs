@@ -2,3 +2,5 @@
 *.s
 *.filt
 *.class
+*.so
+*.pyc
